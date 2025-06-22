@@ -6,7 +6,7 @@ Welcome to **SanChaara**, your go-to app for exploring, creating, and managing e
 
 ## 📦 Download the App (APK)
 
-👉 [**Click here to download Sanchaara v1.0.0**](https://github.com/CharanaManawathilake/sanchaara-apk/releases/download/v1.0.0-beta/sanchaara-v1.0.0-beta.apk)
+👉 [**Click here to download Sanchaara v1.0.0**](https://github.com/CharanaManawathilake/sanchaara-apk/releases/download/v1.0.0/sanchaara-v1.0.0.apk)
 
 > ⚠️ You may need to allow "Install from unknown sources" in your device settings.
 
@@ -14,7 +14,7 @@ Welcome to **SanChaara**, your go-to app for exploring, creating, and managing e
 
 ### 📲 Or scan the QR code below to download:
 
-<img src="v1.0.0-beta.png" alt="Sanchaara APK QR Code" width="250" />
+<img src="v1.0.0.png" alt="Sanchaara APK QR Code" width="250" />
 
 ---
 
