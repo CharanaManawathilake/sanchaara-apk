@@ -12,6 +12,12 @@ Welcome to **Sanchaara**, your go-to app for exploring, creating, and managing e
 
 ---
 
+### 📲 Or scan the QR code below to download:
+
+<img src="v1.0.0-beta.png" alt="Sanchaara APK QR Code" width="250" />
+
+---
+
 ## ✨ Features
 - 🔍 Browse nearby events
 - 🗓️ Create and host your own events
