@@ -6,7 +6,7 @@ Welcome to **Sanchaara**, your go-to app for exploring, creating, and managing e
 
 ## 📦 Download the App (APK)
 
-👉 [**Click here to download Sanchaara v1.0.0**](https://github.com/CharanaManawathilake/sanchaara-apk/releases/download/SanChaara/sanchaara-v1.0.0-beta.apk)
+👉 [**Click here to download Sanchaara v1.0.0**](https://github.com/CharanaManawathilake/sanchaara-apk/releases/download/v1.0.0-beta/sanchaara-v1.0.0-beta.apk)
 
 > ⚠️ You may need to allow "Install from unknown sources" in your device settings.
 
