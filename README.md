@@ -1,6 +1,6 @@
-# 📱 Sanchaara – Discover & Create Events in Sri Lanka 🇱🇰
+# 📱 SanChaara – Discover & Create Events in Sri Lanka 🇱🇰
 
-Welcome to **Sanchaara**, your go-to app for exploring, creating, and managing events across Sri Lanka.
+Welcome to **SanChaara**, your go-to app for exploring, creating, and managing events across Sri Lanka.
 
 ---
 
@@ -39,4 +39,4 @@ Welcome to **Sanchaara**, your go-to app for exploring, creating, and managing e
 
 ---
 
-Thank you for trying Sanchaara! 🎉
+Thank you for trying SanChaara! 🎉
